@@ -108,7 +108,7 @@
 
   .archive__item-teaser {
     float: left;
-    width: 300px;
+    width: 200px;
     margin-right: 1em;
     margin-bottom: 0.5em;
 
@@ -118,7 +118,7 @@
     }
 
     @include breakpoint($small) {
-      width: 225px;
+      width: 150px;
     }
   }
 }
