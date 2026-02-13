@@ -19,9 +19,4 @@ I am a Ph.D. student at the University of Maryland, College Park. I work with th
 **Bachelor's Degree in Computer Science**  
 *Sep 2020 - May 2024*  
 
-### Hangzhou Foreign Languages School
-**High School Diploma, A-Level Curriculum**  
-*Sep 2017 - May 2020*  
-
-
 
